@@ -10,9 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLetieri&layout=compact&langs_count=7&theme=Dark"/>
 </div>
 
-</div>
-  <img align="right" alt="Vingadores" src="https://tenor.com/view/the-avengers-team-gun-captain-america-squad-gif-17755537>https://github.com/DiasTardeNoites
-</div>
  
 ##
  
